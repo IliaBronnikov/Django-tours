@@ -55,7 +55,7 @@ ROOT_URLCONF = 'stepik_tours.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r'./django_tours/tours/templates/tours/'],
+        'DIRS': [r'./tours/templates/tours/'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
