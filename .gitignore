@@ -4,6 +4,7 @@ __pycache__/
 db.sqlite3
 migrations/
 media/
+.idea
 # C extensions
 *.so
 
@@ -56,3 +57,4 @@ docs/_build/
 
 # PyBuilder
 target/
+/venv/
